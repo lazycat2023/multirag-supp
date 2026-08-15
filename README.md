@@ -1,4 +1,4 @@
-# Supplementary Material — "When Multi-Source RAG Helps—and When It Doesn't: A Pre-Deployment Diagnostic via Label-Free Hybrid Routing"
+# Supplementary Material — "When Multi-Source RAG Helps—and When It Doesn't: A Pre-Deployment Diagnostic via Label-Free Hybrid Source Routing"
 
 Anonymous supplementary repository for a WSDM 2027 submission.
 
@@ -27,7 +27,7 @@ Anonymous supplementary repository for a WSDM 2027 submission.
 | P | z-CombSUM score-level diagnosis |
 | Q | Reproducibility details (prompts, hyperparameters, splits, compute) |
 
-Note: tables promoted into the main paper (four-LLM generalization, encoder-family FR, JSD Layer-2 screening, retrieval quality) are retained here for completeness.
+Note: tables promoted into the main paper (four-LLM generalization, encoder-family FR, retrieval quality) are retained here for completeness. The JSD Layer-2 screening table appears here only; the main paper reports its four values inline.
 
 ## Code
 
