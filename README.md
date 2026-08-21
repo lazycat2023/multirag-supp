@@ -1,4 +1,4 @@
-# Supplementary Material — "When Multi-Source RAG Helps—and When It Doesn't: A Pre-Deployment Diagnostic via Label-Free Hybrid Source Routing"
+# Supplementary Material — "HySoR: A Label-Free Two-Layer Pre-Deployment Diagnostic for Multi-Source RAG via Hybrid Source Routing"
 
 Anonymous supplementary repository for a WSDM 2027 submission.
 
