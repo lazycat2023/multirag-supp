@@ -5,7 +5,7 @@ Anonymous supplementary repository for a WSDM 2027 submission.
 ## Contents
 
 - `supplementary.pdf` — Supplementary appendices **A–Q**, referenced from the main paper as `Supp. App. X`.
-  Table/figure numbers carry an `S` prefix; unprefixed numbers (e.g., Table 1, Eq. 2, §5.1) refer to the main paper.
+  Table/figure numbers carry an `S` prefix; unprefixed numbers (e.g., Table 2, Eq. 2, §6.1) refer to the main paper.
 
 | App | Contents |
 |---|---|
