@@ -1,0 +1,16 @@
+{
+  "run_id": "mixed_M4_F_k5_seed42",
+  "n_queries": 2000,
+  "fr": 0.0,
+  "em_mean": 0.372,
+  "mrr": 0.4267,
+  "recall@1": 0.387,
+  "recall@5": 0.498,
+  "recall@10": 0.498,
+  "per_dataset": {
+    "recall@5": {
+      "pubmedqa": 0.35,
+      "nq": 0.646
+    }
+  }
+}

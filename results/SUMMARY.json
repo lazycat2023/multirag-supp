@@ -1,0 +1,42 @@
+{
+ "BL-D": {
+  "em_3seed_mean": 0.2433,
+  "n_seeds": 3
+ },
+ "BL-D-NQ": {
+  "em_3seed_mean": 0.1648,
+  "n_seeds": 3
+ },
+ "BL-P": {
+  "em_3seed_mean": 0.3358,
+  "n_seeds": 3
+ },
+ "CH-D": {
+  "em_3seed_mean": 0.3657,
+  "n_seeds": 3
+ },
+ "CH-H": {
+  "em_3seed_mean": 0.4058,
+  "n_seeds": 3
+ },
+ "CH-X": {
+  "em_3seed_mean": 0.358,
+  "n_seeds": 3
+ },
+ "CH3-D": {
+  "em_3seed_mean": 0.3728,
+  "n_seeds": 3
+ },
+ "CH3-H": {
+  "em_3seed_mean": 0.4195,
+  "n_seeds": 3
+ },
+ "FH-D-NQ": {
+  "em_3seed_mean": 0.1527,
+  "n_seeds": 3
+ },
+ "SH-D": {
+  "em_3seed_mean": 0.2285,
+  "n_seeds": 3
+ }
+}

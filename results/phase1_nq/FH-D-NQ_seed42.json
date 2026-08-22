@@ -1,0 +1,15 @@
+{
+  "run_id": "nq_E2_F_k5_seed42",
+  "n_queries": 2000,
+  "fr": 0.0,
+  "em_mean": 0.1565,
+  "mrr": 0.5495,
+  "recall@1": 0.488,
+  "recall@5": 0.6795,
+  "recall@10": 0.6795,
+  "per_dataset": {
+    "recall@5": {
+      "nq": 0.6795
+    }
+  }
+}
